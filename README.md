@@ -59,6 +59,8 @@ N is an integer within the range [1..200,000].
 
 
 ## Setup Instructions
+Clone and fork this repo into your local machine.
+Run the code using python3 filenmae.py
 
 ## Technologies
 Python
