@@ -59,3 +59,6 @@ N is an integer within the range [1..200,000].
 
 
 ## Setup Instructions
+
+## Technologies
+Python
